@@ -15,16 +15,21 @@ The passing for Thomas High School was 90.94% in pycityschools, with the 9th gra
 This does not affect either the math scores or the reading scores. Upon investigation we believe they are not including most 9th graders scores because they might bring the school even further down in test scores.
 
 •	How does replacing the ninth-grade scores affect the following:
-o	Math and reading scores by grade
+
+.	Math and reading scores by grade
+
 Replacing the ninth-grade scores affected: the scores is that under 9th graders who attended Thomas High School it shows NaN
 
-o	Scores by school spending
+.	Scores by school spending
+
 The numbers stay nearly identical since the 9th graders are nullified from the statistics.
 
-o	Scores by school size
+.	Scores by school size
+
 Overall passing percentage does not change.
 
-o	Scores by school type
+.	Scores by school type
+
 Scores by school type are not altered at all.
 
 Summary
